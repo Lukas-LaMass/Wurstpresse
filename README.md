@@ -1,7 +1,7 @@
 # Wurstpresse
 ## Description
 The Wurstpresse is a simple Script in Jupyter Notebook developed in the Project "FAIR.rdm" in the SPP2143 "Entangled Africa" to support the curation and import workflow for pictures into the database iDAI.objects (Arachne).
-The Jupyter-Notebook-file consists of annotations in markdown and codeblocks in python, which have to executed one by one. The structure and the python code are very simple and straightvorward, so anyone with a basic unterstanding of python code could use the script and edit it easily.
+The Jupyter-Notebook-file consists of annotations in markdown and codeblocks in python, which have to be executed one by one. The structure and the python code are very simple and straightvorward, so anyone with a basic unterstanding of python code could use the script and edit it easily.
 The current Version is 1.7 (December 2022).
 ## Changelog (in German)
 Die Version 1.5 der Wurstpresse vom März 2022 erfüllte folgende Aufgaben:
